@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "442914837359",
+    "project_id": "av-chat-687b8",
+    "storage_bucket": "av-chat-687b8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442914837359:android:21c479a24757c5c6cece9a",
+        "android_client_info": {
+          "package_name": "anjali.learning.whatsappclone"
+        }
+      },
+      "oauth_client": [
+        {"client_id": "442914837359-agrfjeujsumg4mda8p3p6hmv3skbvqbi.apps.googleusercontent.com"},
+        {"client_type": 3}
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTwfafBwcpz8nir1FgeBgRwo5uarWt_T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
