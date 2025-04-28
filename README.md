@@ -45,3 +45,7 @@ Google Sign-In Integration
 
 🔖 Hashtags (for socials)
 #Firebase #MobileAppDevelopment #LearningJourney #AndroidDevelopment #FirebaseAuthentication #GoogleSignIn #Acknowledgment
+
+Screenshot:
+![WhatsApp Image 2025-04-28 at 3 22 44 PM](https://github.com/user-attachments/assets/6cc5b4c5-0f16-4aae-b59d-3c8cc71f25f6)
+
